@@ -1,5 +1,6 @@
-# simplify-config-java
+# Redis-config-java
 
+![redis](https://github.com/user-attachments/assets/5e1c5132-54fb-4190-a776-40e37472c932)
 
 
 ## Getting started
